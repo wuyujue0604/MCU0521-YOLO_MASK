@@ -1,0 +1,6 @@
+classes= 2
+train  = /content/darknet/data/face_mask_dataset/train/train.txt
+valid  = /content/darknet/data/face_mask_dataset/validation/validation.txt
+names = /content/darknet/data/face_mask-colab.names
+backup = /content/darknet/backup
+
